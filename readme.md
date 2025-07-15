@@ -5,8 +5,6 @@
 ](https://www.npmjs.com/package/koishi-plugin-video-sender)
 
 先用yt-dlp-webui或者cli下载，解析出链接
-然后使用命令  
-```
-发送视频 [视频链接]
-```
-解析
+然后使用命令  ```发送视频 [视频链接]```解析
+
+##目前发现问题 mkv手机不能看 pc能看
